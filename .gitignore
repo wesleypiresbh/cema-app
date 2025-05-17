@@ -1,0 +1,18 @@
+# Node modules
+/node_modules
+/.pnp
+*.log
+*.lock
+build/
+dist/
+.next/
+.vercel/
+
+# Arquivos temporários
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+*.swp
+*.swo
